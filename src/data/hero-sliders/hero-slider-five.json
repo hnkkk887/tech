@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "backgroundImage": "/assets/images/hero-slider/five/1.png",
+    "subtitle": "20% off ",
+    "title": "Samsung Galaxy S23+",
+    "url": "/shop/product-basic/63f00cf771cdcc8e9f0d3c78"
+  },
+  {
+    "id": "2",
+    "backgroundImage": "/assets/images/hero-slider/five/2.jpg",
+    "subtitle": "20% off",
+    "title": "New Apple iPhone 14 ",
+    "url": "/shop/product-basic/63f0bbff9f14a6b654de05ea"
+  },
+  {
+    "id": "3",
+    "backgroundImage": "/assets/images/hero-slider/five/3.jpg",
+    "subtitle": "20% off",
+    "title": "PlayStation 5 Console",
+    "url": "/shop/product-basic/63f1018f9c1789a33df5845a"
+  }
+]
